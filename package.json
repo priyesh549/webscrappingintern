@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cheerio": "*",
+    "googleapis": "^39.2.0",
+    "request": "^2.88.2"
+  }
+}
